@@ -1,1 +1,1 @@
-# myProject
+Homework Project website
